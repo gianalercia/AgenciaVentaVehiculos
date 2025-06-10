@@ -1,5 +1,5 @@
 # AgenciaVentaVehiculos
-Backend para agencia automotriz que gestiona pruebas de vehículos con integración de API externa, cálculos complejos y sistema de notificaciones.
+El objetivo de este proyecto es hacer un Backend para agencia de venta de vehiculos que gestiona pruebas de manejo con monitoreo en tiempo real mediante geolocalización, los parametros de dicha geolocalización provienen de una API externa, los endpoints permiten realizar estos cálculos y en respuesta se generan notificaciones en caso de que dichas pruebas se vuelvan incidentes al salirse de los parametros establecidos.
 
 
 ⚙️ Funcionalidades Clave
