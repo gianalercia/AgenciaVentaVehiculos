@@ -12,10 +12,13 @@ Backend para agencia automotriz que gestiona pruebas de vehículos con integraci
 📡 Endpoints para los reportes.
 
 localhost:8888/informes/incidentes
+
 localhost:8888/informes/detalle/#id_empleado
+
 localhost:8888/informes/detalle/vehiculo/#id_vehiculo
 
 🧪 Endpoints para la generacion de notificaciones para vehiculos fuera de coordenadas permitidas
+
 
 localhost:8888/prueba/validar-posicion/#coordenada_latitud/#coordenada_longitud/#id_vehiculo
 
