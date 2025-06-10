@@ -7,6 +7,7 @@ Backend para agencia automotriz que gestiona pruebas de vehículos con integraci
 - **Cálculos técnicos**: Consumo de API externa para parámetros de coordenadas permitidas en las pruebas
 - **Sistema de notificaciones**: Alertas automáticas cuando los resultados difieren de lo esperado, carga automática a la base de datos de notificación
 - **Registro histórico**: Trazabilidad completa de todas las pruebas realizadas
+- **Generación de reportes**: Se realizan reportes sobre los incidentes en pruebas de vehiculos, los incidentes registrados de cada empleado y los incidentes registrados para cada vehiculo con sus pruebas correspondientes.
 
 
 📡 Endpoints para los reportes.
